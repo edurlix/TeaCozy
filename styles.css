@@ -49,7 +49,7 @@ a{
 /* Mission */
 .mission{
     display: flex;
-    background-image: url(/img/img-mission-background.jpg);
+    background-image: url(img/img-mission-background.jpg);
     height: 700px;
     width: 1200px;
     position: relative;
@@ -120,7 +120,7 @@ a{
 /* Location */
 .locations{
     display: flex;
-    background-image: url(/img/img-locations-background.jpg);
+    background-image: url(img/img-locations-background.jpg);
     width: 1200px;
     height: 500px;
     background-size: 1200px 500px;
